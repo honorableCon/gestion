@@ -1,0 +1,6 @@
+#ifndef _GESTION_ETUDIANT
+#define _GESTION_ETUDIANT
+
+//DECLARATION
+
+#endif

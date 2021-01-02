@@ -1,0 +1,6 @@
+#ifndef _GESTION_MATIERE
+#define _GESTION_MATIERE
+
+//DECLARATION
+
+#endif
